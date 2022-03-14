@@ -35,3 +35,5 @@ cargo build --target=wasm32-wasi
 enarx run target/wasm32-wasi/debug/bp-test1.wasm
 
 ```
+## Video Demo
+[Bulletproof](https://youtu.be/9GEZ1pnGN0I?t=943)
